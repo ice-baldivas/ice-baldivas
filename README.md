@@ -22,8 +22,8 @@
 ### 🌟 Favorite Projects
 
 - [School-Tools](#) &mdash; Streamlining productivity for students and educators.
-- [Cuber's Algo](#) &mdash; My playground for algorithms and logic puzzles.
-- [Mary B's Kitchen](https://github.com/ice-baldivas/maryb-kitchen) &mdash; A delicious web project for food enthusiasts.
+- [Cuber's Algo](https://www.cubersalgo.app/) &mdash; My playground for algorithms and logic puzzles.
+- [Mary B's Kitchen](https://maryb-kitchen.com) &mdash; A delicious web project for food enthusiasts.
 
 ---
 
